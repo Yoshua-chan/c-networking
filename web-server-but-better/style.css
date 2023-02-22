@@ -1,0 +1,13 @@
+body {
+    font-family: 'Fira Code';
+    background-color: #282828;
+    color:aliceblue;
+}
+p,
+label {
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+input {
+    margin: 0.4rem;
+}
